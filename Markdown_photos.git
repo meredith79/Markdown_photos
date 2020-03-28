@@ -1,0 +1,6 @@
+echo "# Markdown_photos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:meredith79/Markdown_photos.git
+git push -u origin master
